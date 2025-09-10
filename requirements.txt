@@ -1,0 +1,7 @@
+streamlit
+PyMuPDF
+wordcloud
+matplotlib
+pandas
+nltk
+textblob
